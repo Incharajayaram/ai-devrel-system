@@ -1,0 +1,792 @@
+[
+    {
+        "channel_id": 1332368174393331824,
+        "channel_name": "introduction-anon",
+        "pinned_messages": []
+    },
+    {
+        "channel_id": 1332367546975916105,
+        "channel_name": "general",
+        "pinned_messages": [
+            {
+                "message_id": 1332382475124740196,
+                "author": "beeyonderr",
+                "content": "https://x.com/novasarc01/status/1882816702519693531",
+                "timestamp": "2025-01-24T16:12:16.539000+00:00",
+                "links": [
+                    "https://x.com/novasarc01/status/1882816702519693531"
+                ],
+                "embeds": [
+                    {
+                        "footer": {
+                            "text": "X",
+                            "icon_url": "https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png",
+                            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/PTMEN2KUDPVc1f15BqpREEpYn-iIisxHLwkH_jLnaPo/https/abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png"
+                        },
+                        "image": {
+                            "url": "https://pbs.twimg.com/media/GiEbuS3acAAM6hq.jpg:large",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/o7yx3WKzkKW7JUDycu14LR-VXRhzBaiFC_-cRlZOJ_E/https/pbs.twimg.com/media/GiEbuS3acAAM6hq.jpg%3Alarge",
+                            "width": 1287,
+                            "height": 881,
+                            "placeholder": "x/cBDYAcpwVRgZ9ndKmYh/eBZR85",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "color": 1942002,
+                        "timestamp": "2025-01-24T15:44:17.580000+00:00",
+                        "type": "rich",
+                        "description": "use leetgpu to practice writing cuda kernels\\.\\.\\.great ui, no gpu required, completely free\\!",
+                        "url": "https://twitter.com/novasarc01/status/1882816702519693531",
+                        "title": "\u03bbux (@novasarc01) on X"
+                    }
+                ],
+                "attachments": []
+            }
+        ]
+    },
+    {
+        "channel_id": 1333321370804949014,
+        "channel_name": "general-non-tech",
+        "pinned_messages": [
+            {
+                "message_id": 1340746207097524286,
+                "author": "kshunya",
+                "content": "Prob batane ko blackpill bologe to kaise chalega,prob dekho, recognize it exists and fir isko fix karo\n\nProblem identify karke fix hona shuru hojaye usko whitepill bolte hai na ki sab issues ko ignore karna",
+                "timestamp": "2025-02-16T18:06:45.632000+00:00",
+                "links": [],
+                "embeds": [],
+                "attachments": []
+            },
+            {
+                "message_id": 1337325841427992596,
+                "author": "whiteblade6146",
+                "content": "Haan\n\nThose who makes money are smart people, those who makes money in Bharat are extra smart because with such low per capita income, selling anything is difficult",
+                "timestamp": "2025-02-07T07:35:26.909000+00:00",
+                "links": [],
+                "embeds": [],
+                "attachments": []
+            },
+            {
+                "message_id": 1335294122432528505,
+                "author": "whiteblade6146",
+                "content": "Haan, kuch chize kho dena jaruri hota hai",
+                "timestamp": "2025-02-01T17:02:07.353000+00:00",
+                "links": [],
+                "embeds": [],
+                "attachments": []
+            }
+        ]
+    },
+    {
+        "channel_id": 1337758443494178888,
+        "channel_name": "banger-stuff",
+        "pinned_messages": [
+            {
+                "message_id": 1340384352391135343,
+                "author": "beeyonderr",
+                "content": "https://www.youtube.com/watch?v=4pLmqXAk6Rg",
+                "timestamp": "2025-02-15T18:08:52.747000+00:00",
+                "links": [
+                    "https://www.youtube.com/watch?v=4pLmqXAk6Rg"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://i.ytimg.com/vi/4pLmqXAk6Rg/maxresdefault.jpg",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/9Eb080s5qAUSGNO9ofkE6obkfBbPoVUJrpfABw3F1xs/https/i.ytimg.com/vi/4pLmqXAk6Rg/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "IQgODISnCkVuiYWXdoj0iHl/2A==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "video": {
+                            "url": "https://www.youtube.com/embed/4pLmqXAk6Rg",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "IQgODISnCkVuiYWXdoj0iHl/2A==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com"
+                        },
+                        "author": {
+                            "name": "Michael Mintz",
+                            "url": "https://www.youtube.com/channel/UCSQElO8vQmNPuTgdd83BHdw"
+                        },
+                        "color": 16711680,
+                        "type": "video",
+                        "description": "ChatGPT in GitHub Actions + Playwright vs SeleniumBase.\n0:00 - Welcome to the Automation Show\n0:11 - Live demo / ChatGPT in GitHub Actions\n1:39 - Describing this video with memes\n5:21 - Playwright vs SeleniumBase\n12:35 - The code for automating ChatGPT\n15:10 - More ChatGPT automation / Wrap-up\n\nPlaywright vs SeleniumBase (Metrics and GitHub Acti...",
+                        "url": "https://www.youtube.com/watch?v=4pLmqXAk6Rg",
+                        "title": "ChatGPT in GitHub Actions + Playwright vs SeleniumBase"
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1339282765496979457,
+                "author": "beeyonderr",
+                "content": "https://www.youtube.com/watch?v=09HTNGlkS0s",
+                "timestamp": "2025-02-12T17:11:33.965000+00:00",
+                "links": [
+                    "https://www.youtube.com/watch?v=09HTNGlkS0s"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://i.ytimg.com/vi/09HTNGlkS0s/maxresdefault.jpg",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/mZMIZF11mzgepRJVddE4_lPWqgsppzr_J0psSwWfiW8/https/i.ytimg.com/vi/09HTNGlkS0s/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "zPcJBIBwiWSZeHd3h3aPd/Z3eA==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "video": {
+                            "url": "https://www.youtube.com/embed/09HTNGlkS0s",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "zPcJBIBwiWSZeHd3h3aPd/Z3eA==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com"
+                        },
+                        "author": {
+                            "name": "Thomas Wald",
+                            "url": "https://www.youtube.com/channel/UC2rhVaQccuDa1uxIKp_ORuA"
+                        },
+                        "color": 16711680,
+                        "type": "video",
+                        "description": "My journey coding a challenger to the A* pathfinding algorithm from scratch.\n\nMy GitHub link: https://github.com/ThomasWaldYT",
+                        "url": "https://www.youtube.com/watch?v=09HTNGlkS0s",
+                        "title": "A (Revolutionary?) New Pathfinding Approach - How I Conquered My Co..."
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1337825406472163432,
+                "author": "beeyonderr",
+                "content": "https://www.youtube.com/watch?v=l3O2J3LMxqI",
+                "timestamp": "2025-02-08T16:40:32.497000+00:00",
+                "links": [
+                    "https://www.youtube.com/watch?v=l3O2J3LMxqI"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://i.ytimg.com/vi/l3O2J3LMxqI/maxresdefault.jpg",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/P1ZloCnAtRj1jsZA3270Zmx2RmtbkiYKIhZNKJm-8Yg/https/i.ytimg.com/vi/l3O2J3LMxqI/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "jAcGHIJMIIlWd4eimXRvquu/Kg==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "video": {
+                            "url": "https://www.youtube.com/embed/l3O2J3LMxqI",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "jAcGHIJMIIlWd4eimXRvquu/Kg==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com"
+                        },
+                        "author": {
+                            "name": "Machine Learning Street Talk",
+                            "url": "https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ"
+                        },
+                        "color": 16711680,
+                        "type": "video",
+                        "description": "Professor Randall Balestriero joins us to discuss neural network geometry, spline theory, and emerging phenomena in deep learning, based on research presented at ICML.  Topics include the delayed emergence of adversarial robustness in neural networks (\"grokking\"), geometric interpretations of neural networks via spline theory, and challenges in ...",
+                        "url": "https://www.youtube.com/watch?v=l3O2J3LMxqI",
+                        "title": "Want to Understand Neural Networks? Think Elastic Origami!"
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1337779846419582986,
+                "author": "beeyonderr",
+                "content": "https://github.com/mananchawla2005/gpukernels/tree/master/day5",
+                "timestamp": "2025-02-08T13:39:30.134000+00:00",
+                "links": [
+                    "https://github.com/mananchawla2005/gpukernels/tree/master/day5"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://opengraph.githubassets.com/ff28e4f46405545bacb83d91a8409d0dcf4d18d7a477a0a5ccbf0bda71035635/mananchawla2005/gpukernels",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/oOumfl9z2VZQ_6spgnqS-rKkZNpCO985XQhJVTtWiTk/https/opengraph.githubassets.com/ff28e4f46405545bacb83d91a8409d0dcf4d18d7a477a0a5ccbf0bda71035635/mananchawla2005/gpukernels",
+                            "width": 1200,
+                            "height": 600,
+                            "placeholder": "/PcFBIJpmKaKhnh1eX9G+lhYrw==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "GitHub"
+                        },
+                        "color": 1975079,
+                        "type": "article",
+                        "description": "The repository contains one cuda kernel each day :) - mananchawla2005/gpukernels",
+                        "url": "https://github.com/mananchawla2005/gpukernels/tree/master/day5",
+                        "title": "gpukernels/day5 at master \u00b7 mananchawla2005/gpukernels"
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1337776573612425308,
+                "author": "abhijit7847",
+                "content": "Good books on programming. \nhttps://flaviocopes.com/access/",
+                "timestamp": "2025-02-08T13:26:29.836000+00:00",
+                "links": [
+                    "https://flaviocopes.com/access/"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://flaviocopes.com/images/og.png",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/EJOzg7nsAEiz_eZ5hXPoGQJotAXgq6ELi5zs8_8y6Mo/https/flaviocopes.com/images/og.png",
+                            "width": 1200,
+                            "height": 630,
+                            "placeholder": "bPgJFIDKo9jZi0ZPhYjPVfNfhw==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "color": 16777215,
+                        "type": "article",
+                        "description": "I help people learn to code.",
+                        "url": "https://flaviocopes.com/access/",
+                        "title": "Flavio Copes"
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1337758537232814153,
+                "author": "beeyonderr",
+                "content": "https://www.youtube.com/watch?v=98o_L3jlixw",
+                "timestamp": "2025-02-08T12:14:49.628000+00:00",
+                "links": [
+                    "https://www.youtube.com/watch?v=98o_L3jlixw"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://i.ytimg.com/vi/98o_L3jlixw/maxresdefault.jpg",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/abVJUKgjIQgSGiB_TuYEW5RLXlPVSjWkoaSgZE3OFdI/https/i.ytimg.com/vi/98o_L3jlixw/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "LggODIJf05U9l3Z6eJmQwQgpew==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "video": {
+                            "url": "https://www.youtube.com/embed/98o_L3jlixw",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "LggODIJf05U9l3Z6eJmQwQgpew==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com"
+                        },
+                        "author": {
+                            "name": "The Pragmatic Engineer",
+                            "url": "https://www.youtube.com/channel/UCPbwhExawYrn9xxI21TFfyw"
+                        },
+                        "color": 16711680,
+                        "type": "video",
+                        "description": "On today\u2019s episode of The Pragmatic Engineer, I\u2019m joined by Chip Huyen, a computer scientist, author of the freshly published O\u2019Reilly book AI Engineering, and an expert in applied machine learning. Chip has worked as a researcher at Netflix, was a core developer at NVIDIA (building NeMo, NVIDIA\u2019s GenAI framework), and co-founded Claypot AI. She...",
+                        "url": "https://www.youtube.com/watch?v=98o_L3jlixw",
+                        "title": "AI Engineering with Chip Huyen"
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1337824699140411433,
+                "author": "beeyonderr",
+                "content": "https://www.youtube.com/watch?v=YdOXS_9_P4U",
+                "timestamp": "2025-02-08T16:37:43.856000+00:00",
+                "links": [
+                    "https://www.youtube.com/watch?v=YdOXS_9_P4U"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://i.ytimg.com/vi/YdOXS_9_P4U/maxresdefault.jpg",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/e-jdtdKol2xXFPXzoRxLA7S5429gdLEbUCQ5Rkk4Q2I/https/i.ytimg.com/vi/YdOXS_9_P4U/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "UggOHIBwZ3iZd3iHeHiwpAWmVg==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "video": {
+                            "url": "https://www.youtube.com/embed/YdOXS_9_P4U",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "UggOHIBwZ3iZd3iHeHiwpAWmVg==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com"
+                        },
+                        "author": {
+                            "name": "3Blue1Brown",
+                            "url": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"
+                        },
+                        "color": 16711680,
+                        "type": "video",
+                        "description": "The Cosmic Distance Ladder, how we learned distances in the heavens.\nEmail list: https://3b1b.co/mail\nPatreon supporters see early views of new videos: https://www.patreon.com/3blue1brown\n\nArtwork by Kurt Bruns\nThanks to Paul Dancstep for several animations, such as the powers of 10 zoom out and the simulations of shadows on the moon.\n\nThanks to...",
+                        "url": "https://www.youtube.com/watch?v=YdOXS_9_P4U",
+                        "title": "Terence Tao on how we measure the cosmos | Part 1"
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1341430791485390909,
+                "author": "whiteblade6146",
+                "content": "https://www.youtube.com/watch?v=WysLm1-PyuM\n\nShared by <@772819562424172557>",
+                "timestamp": "2025-02-18T15:27:03.269000+00:00",
+                "links": [
+                    "https://www.youtube.com/watch?v=WysLm1-PyuM"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://i.ytimg.com/vi/WysLm1-PyuM/maxresdefault.jpg",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/M29P7V8do0NAMDSEMMeanOPE04kK9dU8i9yQ7ul-GN0/https/i.ytimg.com/vi/WysLm1-PyuM/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "+fcFBIC6SpmminhfiFk50LlG+Q==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "video": {
+                            "url": "https://www.youtube.com/embed/WysLm1-PyuM",
+                            "width": 1280,
+                            "height": 720,
+                            "placeholder": "+fcFBIC6SpmminhfiFk50LlG+Q==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com"
+                        },
+                        "author": {
+                            "name": "Prof Dr - Ing Morris Riedel",
+                            "url": "https://www.youtube.com/channel/UCWC4VKHmL4NZgFfKoHtANKg"
+                        },
+                        "color": 16711680,
+                        "type": "video",
+                        "description": "2025 High Performance Computing Practical Lecture 1.1 Intro C Programming and Scheduling Part - One \ud83d\udc68\u200d\ud83d\udcbb \n\nAdvanced Scientific Computing\n16 university lectures with additional practical lectures for hands-on exercises in context\nThe University of Iceland, School of Engineering and Natural Sciences\nFaculty of Industrial Engineering, Mechanical Eng...",
+                        "url": "https://www.youtube.com/watch?v=WysLm1-PyuM",
+                        "title": "2025 High Performance Computing Practical Lecture 1.1 Intro C Progr..."
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1341804891898773625,
+                "author": "beeyonderr",
+                "content": "https://arcinstitute.org/manuscripts/Evo2",
+                "timestamp": "2025-02-19T16:13:35.758000+00:00",
+                "links": [
+                    "https://arcinstitute.org/manuscripts/Evo2"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://arcinstitute.org/social.png",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/F8vsh9osp3tgOXssQsJ_XZrHZ7LsEbbPTcs0V1oxiiM/https/arcinstitute.org/social.png",
+                            "width": 2048,
+                            "height": 1152,
+                            "placeholder": "+fcBBIC5qYr6cooIxGqr+rqczw==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "type": "article",
+                        "description": "Arc Institute is a independent nonprofit research organization headquartered in Palo Alto, California.",
+                        "url": "https://arcinstitute.org/manuscripts/Evo2",
+                        "title": "Manuscript | Arc Institute"
+                    }
+                ],
+                "attachments": []
+            }
+        ]
+    },
+    {
+        "channel_id": 1332370065156341862,
+        "channel_name": "ml-theory",
+        "pinned_messages": [
+            {
+                "message_id": 1334214548160385054,
+                "author": "whiteblade6146",
+                "content": "https://hanlab.mit.edu/courses/2024-fall-65940",
+                "timestamp": "2025-01-29T17:32:16.789000+00:00",
+                "links": [
+                    "https://hanlab.mit.edu/courses/2024-fall-65940"
+                ],
+                "embeds": [
+                    {
+                        "type": "link",
+                        "description": "This course focuses on efficient machine learning and systems. This is a crucial area as deep neural networks demand extraordinary levels of computation, hindering its deployment on everyday devices and burdening the cloud infrastructure. This course introduces efficient AI computing techniques that enable powerful deep learning applications on ...",
+                        "url": "https://hanlab.mit.edu/courses/2024-fall-65940",
+                        "title": "MIT 6.5940 Fall 2024 TinyML and Efficient Deep Learning Computing"
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1333108196499259473,
+                "author": "beeyonderr",
+                "content": "https://naklecha.notion.site/a-reinforcement-learning-guide",
+                "timestamp": "2025-01-26T16:16:01.998000+00:00",
+                "links": [
+                    "https://naklecha.notion.site/a-reinforcement-learning-guide"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://naklecha.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F17894a58-79d1-4929-bfb2-d3cb0abadf4b%2F50eaed14-3386-40ed-8424-4adb0abe177f%2FSocialMediaPreviewImage.png?table=block&id=170f2ae5-124f-80e0-95c3-f20e6f3f0e6f&spaceId=17894a58-79d1-4929-bfb2-d3cb0abadf4b&width=2000&userId=&cache=v2",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/nlr7GbLeeyeYoVKy87CXvp8LMs4N9P674C2C9WYthVc/%3Ftable%3Dblock%26id%3D170f2ae5-124f-80e0-95c3-f20e6f3f0e6f%26spaceId%3D17894a58-79d1-4929-bfb2-d3cb0abadf4b%26width%3D2000%26userId%3D%26cache%3Dv2/https/naklecha.notion.site/image/https%253A%252F%252Fprod-files-secure.s3.us-west-2.amazonaws.com%252F17894a58-79d1-4929-bfb2-d3cb0abadf4b%252F50eaed14-3386-40ed-8424-4adb0abe177f%252FSocialMediaPreviewImage.png",
+                            "width": 1200,
+                            "height": 630,
+                            "placeholder": "KggeBICIh4eAeHiGeImWbI/32A==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "Nishant's Notion on Notion"
+                        },
+                        "type": "article",
+                        "description": "a reinforcement learning guide that explains the fundamentals of rl from first principles",
+                        "url": "https://naklecha.notion.site/a-reinforcement-learning-guide",
+                        "title": "a reinforcement learning guide | naklecha"
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1332374332982431805,
+                "author": "beeyonderr",
+                "content": "https://mlfz.readthedocs.io/en/latest/mlfz.html",
+                "timestamp": "2025-01-24T15:39:55.301000+00:00",
+                "links": [
+                    "https://mlfz.readthedocs.io/en/latest/mlfz.html"
+                ],
+                "embeds": [],
+                "attachments": []
+            },
+            {
+                "message_id": 1332371483967881246,
+                "author": "beeyonderr",
+                "content": "https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE",
+                "timestamp": "2025-01-24T15:28:36.043000+00:00",
+                "links": [
+                    "https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE"
+                ],
+                "embeds": [
+                    {
+                        "color": 3226107,
+                        "type": "article",
+                        "url": "https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE",
+                        "title": "Ilya 30u30"
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1332370972363194503,
+                "author": "beeyonderr",
+                "content": "https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/mobilebasic#heading=h.rdz2r8td2212",
+                "timestamp": "2025-01-24T15:26:34.067000+00:00",
+                "links": [
+                    "https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/mobilebasic#heading=h.rdz2r8td2212"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyLshvAGdaimdslTdzNCIydp12OvGOGAFkaycLnAk73udsI3XWpRk6TJ4oWBixdyGQ_21b3xeHVlP6I266eD5iOIioWCBoE7WEhU6nF7u5n03EArDqwq=w1200-h630-p",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/OUNDxNyBq9t48Sq2dShW0ThkrlprI60nNRIGCcSn2OU/https/lh7-us.googleusercontent.com/docs/AHkbwyLshvAGdaimdslTdzNCIydp12OvGOGAFkaycLnAk73udsI3XWpRk6TJ4oWBixdyGQ_21b3xeHVlP6I266eD5iOIioWCBoE7WEhU6nF7u5n03EArDqwq%3Dw1200-h630-p",
+                            "width": 1200,
+                            "height": 630,
+                            "placeholder": "cxgSHIR4iIiAh4eBiIZ4j463+A==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "Google Docs"
+                        },
+                        "type": "link",
+                        "description": "The Course Book Harvard CS197\u000bAI Research Experiences \u000b\u000bGPT-3 \u00b7 Large Language Models \u00b7 VSCode \u00b7 Git \u00b7 Conda \u00b7 Debugging \u00b7 Linting \u00b7 Reading AI papers \u00b7 Literature Search \u00b7 Hugging Face \u00b7 Lightning \u00b7 Vision Transformer \u00b7 PyTorch \u00b7 Autograd \u00b7 Experiment Organization \u00b7 Weights and Biases \u00b7...",
+                        "url": "https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/mobilebasic",
+                        "title": "Harvard CS197: AI Research Experiences \u2013\u00a0The Course Book"
+                    }
+                ],
+                "attachments": []
+            }
+        ]
+    },
+    {
+        "channel_id": 1332370426910736404,
+        "channel_name": "raw-code-discussion",
+        "pinned_messages": []
+    },
+    {
+        "channel_id": 1332376209258188941,
+        "channel_name": "low-level-programming",
+        "pinned_messages": [
+            {
+                "message_id": 1334514461414785104,
+                "author": "whiteblade6146",
+                "content": "https://github.com/gurugio/lowlevelprogramming-university",
+                "timestamp": "2025-01-30T13:24:01.681000+00:00",
+                "links": [
+                    "https://github.com/gurugio/lowlevelprogramming-university"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://opengraph.githubassets.com/46d344733c71978cdb13f9c96826192ef1266f037a12ed1b335cae966d940ee2/gurugio/lowlevelprogramming-university",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/OVVMzmtHxUXHbDtRkc7H-QFRUeHmNjyZ1YsHm4ABxus/https/opengraph.githubassets.com/46d344733c71978cdb13f9c96826192ef1266f037a12ed1b335cae966d940ee2/gurugio/lowlevelprogramming-university",
+                            "width": 1200,
+                            "height": 600,
+                            "placeholder": "PQgCBIBnibd0hniLeI/APAW8Yw==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "GitHub"
+                        },
+                        "color": 1975079,
+                        "type": "article",
+                        "description": "How to be low-level programmer. Contribute to gurugio/lowlevelprogramming-university development by creating an account on GitHub.",
+                        "url": "https://github.com/gurugio/lowlevelprogramming-university",
+                        "title": "GitHub - gurugio/lowlevelprogramming-university: How to be low-leve..."
+                    }
+                ],
+                "attachments": []
+            }
+        ]
+    },
+    {
+        "channel_id": 1332376360609382481,
+        "channel_name": "embedded-systems",
+        "pinned_messages": [
+            {
+                "message_id": 1332376990401167360,
+                "author": "beeyonderr",
+                "content": "https://engineers.inpyjama.com/learn/home/c-ninja-book/section/526855/lesson/3269633?",
+                "timestamp": "2025-01-24T15:50:28.879000+00:00",
+                "links": [
+                    "https://engineers.inpyjama.com/learn/home/c-ninja-book/section/526855/lesson/3269633?"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://imgproxy.learnyst.com/learnyst-user-assets/websites/templates/template_pages/1724737850375arm_m__2__lyst1724737850388.png",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/oiEHVztqbBLxt8WvgenAmBYSARw6Sn7tbnasdBaUKKk/https/imgproxy.learnyst.com/learnyst-user-assets/websites/templates/template_pages/1724737850375arm_m__2__lyst1724737850388.png",
+                            "width": 1920,
+                            "height": 1005,
+                            "placeholder": "2kgGLIj4dwWLeZaEbHr8iIiPlw==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "type": "article",
+                        "description": "Embedded Systems, inPyjama!",
+                        "url": "https://engineers.inpyjama.com/learn/home/c-ninja-book/section/526855/lesson/3269633?",
+                        "title": "Embedded Systems, inPyjama"
+                    }
+                ],
+                "attachments": []
+            }
+        ]
+    },
+    {
+        "channel_id": 1332376580869062670,
+        "channel_name": "zero-day",
+        "pinned_messages": []
+    },
+    {
+        "channel_id": 1332377295754756126,
+        "channel_name": "web-development",
+        "pinned_messages": []
+    },
+    {
+        "channel_id": 1332377340465905755,
+        "channel_name": "app-development",
+        "pinned_messages": []
+    },
+    {
+        "channel_id": 1332374949905563713,
+        "channel_name": "media",
+        "pinned_messages": []
+    },
+    {
+        "channel_id": 1332382645459619870,
+        "channel_name": "gpu-programming-cuda",
+        "pinned_messages": []
+    },
+    {
+        "channel_id": 1332961188262182922,
+        "channel_name": "quant-deepseekr",
+        "pinned_messages": [
+            {
+                "message_id": 1332979404455936001,
+                "author": "whiteblade6146",
+                "content": "",
+                "timestamp": "2025-01-26T07:44:15.582000+00:00",
+                "links": [],
+                "embeds": [],
+                "attachments": [
+                    {
+                        "url": "https://cdn.discordapp.com/attachments/1332961188262182922/1332979404103487569/learning-modern-c-for-finance-foundations-for-quantitative-programming.pdf?ex=67bad1cf&is=67b9804f&hm=db62a634b36a6d9ff017413a7bed2d6b1357b8fb459d9be05ce4357d43646aad&",
+                        "filename": "learning-modern-c-for-finance-foundations-for-quantitative-programming.pdf"
+                    }
+                ]
+            },
+            {
+                "message_id": 1332976409731141642,
+                "author": "whiteblade6146",
+                "content": "",
+                "timestamp": "2025-01-26T07:32:21.584000+00:00",
+                "links": [],
+                "embeds": [],
+                "attachments": [
+                    {
+                        "url": "https://cdn.discordapp.com/attachments/1332961188262182922/1332976409278152736/Technical_Analysis_of_the_Financial_Markets_A_Comprehensive_Guide_to_Trading_Methods_and_Applications_John_J._Murphy_z-lib.org_compressed.pdf?ex=67bacf05&is=67b97d85&hm=3d7f6ed25bee2225c1e38130b6efa6772ffae3d5b5b443afc07a933ad43b0ab5&",
+                        "filename": "Technical_Analysis_of_the_Financial_Markets_A_Comprehensive_Guide_to_Trading_Methods_and_Applications_John_J._Murphy_z-lib.org_compressed.pdf"
+                    }
+                ]
+            },
+            {
+                "message_id": 1332976088174825542,
+                "author": "whiteblade6146",
+                "content": "",
+                "timestamp": "2025-01-26T07:31:04.919000+00:00",
+                "links": [],
+                "embeds": [],
+                "attachments": [
+                    {
+                        "url": "https://cdn.discordapp.com/attachments/1332961188262182922/1332976087709253723/Machine_Learning_for_Algorithmic_Trading_Predictive_compressed.pdf?ex=67baceb8&is=67b97d38&hm=c4f7e55969a0f30d10150cef0e0301010453305ab285150ef1d15d2ba992f7c2&",
+                        "filename": "Machine_Learning_for_Algorithmic_Trading_Predictive_compressed.pdf"
+                    }
+                ]
+            },
+            {
+                "message_id": 1332974329402490951,
+                "author": "beeyonderr",
+                "content": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/",
+                "timestamp": "2025-01-26T07:24:05.595000+00:00",
+                "links": [
+                    "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/bb7de7f57ac6a5938118fc237a68d2b7_18-s096f13.jpg",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/-PR1dux0b9QQYlLU5Md71s22D55PZarm1G42s0KbZLU/https/ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/bb7de7f57ac6a5938118fc237a68d2b7_18-s096f13.jpg",
+                            "width": 322,
+                            "height": 242,
+                            "placeholder": "+vcFDYAfGsRReIeVlHiXeC9l00n3",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "MIT OpenCourseWare"
+                        },
+                        "type": "article",
+                        "description": "This section provides the schedule of lecture topics along with the lecture notes used for most class sessions.",
+                        "url": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/",
+                        "title": "Lecture Notes & Slides | Topics in Mathematics with Applications in..."
+                    }
+                ],
+                "attachments": []
+            },
+            {
+                "message_id": 1332971480312451164,
+                "author": "beeyonderr",
+                "content": "https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291",
+                "timestamp": "2025-01-26T07:12:46.319000+00:00",
+                "links": [
+                    "https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/7lesHV5TJfXV9rDct_prZ0T8dzM8AdALoVfer2-rnhs/https/github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+                            "width": 1280,
+                            "height": 640,
+                            "placeholder": "yvcFBIBcZXZAqpiJd61LQKkDlA==",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "provider": {
+                            "name": "Gist"
+                        },
+                        "color": 1975079,
+                        "type": "article",
+                        "description": "Quantopian Lectures Saved. GitHub Gist: instantly share code, notes, and snippets.",
+                        "url": "https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291",
+                        "title": "Quantopian Lectures Saved"
+                    }
+                ],
+                "attachments": []
+            }
+        ]
+    },
+    {
+        "channel_id": 1335962299466387456,
+        "channel_name": "resources-repo-and-links",
+        "pinned_messages": [
+            {
+                "message_id": 1336094934494744627,
+                "author": "angron7171",
+                "content": "https://wokwi.com/",
+                "timestamp": "2025-02-03T22:04:15.827000+00:00",
+                "links": [
+                    "https://wokwi.com/"
+                ],
+                "embeds": [
+                    {
+                        "thumbnail": {
+                            "url": "https://wokwi.com/images/social-cover.png?v=5",
+                            "proxy_url": "https://images-ext-1.discordapp.net/external/xknsN9gbhkWkudoXWzyGTS-VOGWzL7957AGveg2XsLg/%3Fv%3D5/https/wokwi.com/images/social-cover.png",
+                            "width": 1200,
+                            "height": 630,
+                            "placeholder": "JgiSC4IPi6WSeF8ljZD5iFVVgIiACAg=",
+                            "placeholder_version": 1,
+                            "flags": 0
+                        },
+                        "color": 9489145,
+                        "type": "article",
+                        "description": "IoT and Embedded System Simulator: ESP32, STM32, Arduino, Raspberry Pi Pico, displays, sensors, motors and WiFi simulation.",
+                        "url": "https://wokwi.com/",
+                        "title": "Wokwi - World's most advanced ESP32 Simulator"
+                    }
+                ],
+                "attachments": []
+            }
+        ]
+    }
+]
